@@ -37,5 +37,16 @@ Build an AI-based recommendation system using Java and Apache Mahout to suggest 
 javac -cp "path_to_mahout_jars/*" Main.java
 java -cp ".:path_to_mahout_jars/*" Main
 
+---
+
+📝 Sample Output:
+Recommended Item: 104, Value: 4.378
+Recommended Item: 105, Value: 3.928
+Recommended Item: 106, Value: 3.761
+
+---
+
 🔗 Apache Mahout
 https://mahout.apache.org/
+
+
